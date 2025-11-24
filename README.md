@@ -22,7 +22,7 @@ Code for river discharge routing on river networks containing multichannels
 - xpr_csv (example file: 'xfc_82.csv')  
   . The value 0.3 for all reaches
 - bas_csv (example file: 'riv_82.csv')  
-  . Integer to use for sorting rivers, here a topological sort  
+  . File containing sorted river IDs (here, a topological sort)  
 
 
 ## More details on how to generate input files:  

@@ -58,7 +58,7 @@ rrr_kfc_csv=sys.argv[2]
 rrr_xfc_csv=sys.argv[3]
 rrr_crd_csv=sys.argv[4]
 
-# mer_riv_shp='../test/na_sword_reaches_hb82_v17.shp'
+# mer_riv_shp='../test/na_sword_reaches_hb82_v17_rte.shp'
 # rrr_kfc_csv='../test/k_82.csv'
 # rrr_xfc_csv='../test/xfc_82.csv'
 # rrr_crd_csv='../test/coords_82.csv'
